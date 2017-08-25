@@ -1,3 +1,4 @@
+/* This is the css code for the Dasmoto file to satisfy a codecademy course.  */
 .heading {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
 }
@@ -22,6 +23,7 @@ p {
   font-family: Helvetica;
 }
 
+/* This strong tag should us a class selector*/
 strong {
   color: blue;
 }
